@@ -1,0 +1,7 @@
+1 Call Stack:
+
+2 Node APIs:
+
+3 Callback Queue:
+
+Whole process is called EVENT LOOPs
