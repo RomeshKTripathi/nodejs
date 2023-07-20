@@ -1,7 +1,7 @@
-1 Call Stack:
+1 Call Stack: functions starting from MAIN function and all call stack of JS functions
 
-2 Node APIs:
+2 Node APIs: list of all API calls
 
-3 Callback Queue:
+3 Callback Queue: function call fetched from NODE API one by one
 
 Whole process is called EVENT LOOPs
